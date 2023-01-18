@@ -18,7 +18,7 @@ Comment on the rules section is not functioning properly.
 
 ## Release Notes
 ### 0.0.1
-Initial release of Lex Snippet Extension
+Initial release of Lex Snippet Extension  
 Includes basic snippets for lex code patterns
 ## Support
 If you have any questions or issues with this extension, please contact the developer.
