@@ -1,0 +1,26 @@
+{
+  "name": "lex-snippet",
+  "displayName": "Lex Snippet",
+  "publisher": "RJ64",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RestingJourneyman/lex_snippet"
+  },
+  "icon": "icon.png",
+  "description": "This extension creates basic lexical code template.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "lex",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
